@@ -1,5 +1,5 @@
 ---
-title: "Início"
+title: "Trang Chủ"
 menu: "main"
 weight: 1
 ---

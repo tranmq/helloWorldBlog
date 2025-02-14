@@ -23,14 +23,14 @@ enableRobotsTXT = true
 # see https://gohugo.io/content-management/multilingual/
 [languages]
   [languages.en]
-    title = "Bear Cub"
+    title = "Hello the World"
     languageName = "en-US 🇺🇸"
     LanguageCode = "en-US"
     contentDir = "content"
     [languages.en.params]
       madeWith = "Made with [Bear Cub](https://github.com/clente/hugo-bearcub)"
   [languages.vi]
-    title = "Gấu Con"
+    title = "Xin Chào Thế Giới"
     languageName = "Tiếng Việt 🇻🇳"
     LanguageCode = "vi-VI"
     contentDir = "content.vi"
