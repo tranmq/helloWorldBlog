@@ -1,5 +1,5 @@
 # Basic config
-baseURL = "https://example.com"
+baseURL = "https://hellofrommq.netlify.app"
 theme = "hugo-bearcub"
 copyright = "© 2025 MQ Tran.  All rights reserved."
 defaultContentLanguage = "en"
