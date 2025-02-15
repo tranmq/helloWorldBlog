@@ -35,4 +35,3 @@ Hugo ships with several [Built-in Shortcodes](https://gohugo.io/content-manageme
 
 ---
 
-![ftc logo](/images/ftc.jpg)

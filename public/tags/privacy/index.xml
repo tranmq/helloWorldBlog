@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Privacy on Hello the World</title>
+    <title>Privacy on MQ&#39;s Musings</title>
     <link>http://localhost:1313/tags/privacy/</link>
-    <description>Recent content in Privacy on Hello the World</description>
+    <description>Recent content in Privacy on MQ&#39;s Musings</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <managingEditor>me@example.com (MQ Tran)</managingEditor>
@@ -65,7 +65,8 @@
               <svg version="1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 61 61"><circle cx="30.5" cy="30.5" r="30.5" opacity=".8" fill="#000"></circle><path d="M25.3 19.2c-2.1-1.2-3.8-.2-3.8 2.2v18.1c0 2.4 1.7 3.4 3.8 2.2l16.6-9.1c2.1-1.2 2.1-3.2 0-4.4l-16.6-9z" fill="#fff"></path></svg>
             </div>
           </a>
-        </div>]]></content:encoded>
+        </div>
+<hr>]]></content:encoded>
     </item>
   </channel>
 </rss>

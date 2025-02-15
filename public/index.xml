@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Hello the World</title>
+    <title>MQ&#39;s Musings</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on Hello the World</description>
+    <description>Recent content on MQ&#39;s Musings</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <managingEditor>me@example.com (MQ Tran)</managingEditor>
@@ -218,8 +218,7 @@
             </div>
           </a>
         </div>
-<hr>
-<p><img src="/images/ftc.jpg" alt="ftc logo"></p>]]></content:encoded>
+<hr>]]></content:encoded>
     </item>
     <item>
       <title>Placeholder Text</title>
