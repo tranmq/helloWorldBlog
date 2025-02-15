@@ -24,14 +24,14 @@ enableRobotsTXT = true
 [languages]
   [languages.en]
     title = "Hello the World"
-    languageName = "en-US 🇺🇸"
+    languageName = "English"
     LanguageCode = "en-US"
     contentDir = "content"
     [languages.en.params]
       madeWith = "Made with [Bear Cub](https://github.com/clente/hugo-bearcub)"
   [languages.vi]
     title = "Xin Chào Thế Giới"
-    languageName = "Tiếng Việt 🇻🇳"
+    languageName = "Tiếng Việt"
     LanguageCode = "vi-VI"
     contentDir = "content.vi"
     [languages.vi.params]
@@ -40,6 +40,8 @@ enableRobotsTXT = true
 [params]
   # The description of your website
   description = "Personal Blog Experiment"
+
+  hideMadeWithLine = true
 
   # The path to your favicon
   favicon = "images/favicon.png"
